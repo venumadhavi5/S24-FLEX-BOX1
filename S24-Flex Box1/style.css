@@ -1,0 +1,155 @@
+.letters1{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    
+    margin: 5px;
+    
+    
+}
+.letters2{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    
+    margin: 5px;
+
+}
+.letters3{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    align-items: start;
+    
+    margin: 5px;
+}
+.alphabets{
+    font-size: 2rem;
+    background-color: rgb(0, 0, 255);
+    color: aliceblue;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    
+
+
+
+
+}
+.numbers1{
+    background-color:yellow;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    position: relative;
+    left: 350px;
+    bottom: 910px;
+    
+
+}
+.numbers2{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    align-items: center;
+    margin: 5px;
+    position: relative;
+    left: 350px;
+    bottom: 910px;
+
+}
+.numbers3{
+    background-color:yellow;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    margin: 5px;
+    position: relative;
+    left: 350px;
+    bottom: 910px;
+}
+.numericals{
+    font-size: 2rem;
+    background-color: rgb(255, 8, 0);
+    color: aliceblue;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+
+
+}
+.smallLetters1{
+    background-color:deeppink;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    position: relative;
+    left: 700px;
+    bottom: 1820px;
+
+}
+.smallLetters2{
+    background-color:deeppink;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    align-items: center;
+    margin: 5px;
+    position: relative;
+    left: 700px;
+    bottom: 1820px;
+}
+.smallLetters3{
+    background-color: deeppink;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+    align-items: start;
+    margin: 5px;
+    position: relative;
+    left: 700px;
+    bottom: 1820px;
+}
+.smallAlphabets{
+    font-size: 2rem;
+    background-color: green;
+    color: aliceblue;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+
+
+}
